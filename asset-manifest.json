@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cheesy-jokes/static/css/main.b78790f3.chunk.css",
-    "main.js": "/cheesy-jokes/static/js/main.1a91db2f.chunk.js",
-    "main.js.map": "/cheesy-jokes/static/js/main.1a91db2f.chunk.js.map",
+    "main.js": "/cheesy-jokes/static/js/main.ed4044dd.chunk.js",
+    "main.js.map": "/cheesy-jokes/static/js/main.ed4044dd.chunk.js.map",
     "runtime-main.js": "/cheesy-jokes/static/js/runtime-main.cb2342e2.js",
     "runtime-main.js.map": "/cheesy-jokes/static/js/runtime-main.cb2342e2.js.map",
-    "static/js/2.c9c4aa42.chunk.js": "/cheesy-jokes/static/js/2.c9c4aa42.chunk.js",
-    "static/js/2.c9c4aa42.chunk.js.map": "/cheesy-jokes/static/js/2.c9c4aa42.chunk.js.map",
+    "static/js/2.c1542bbf.chunk.js": "/cheesy-jokes/static/js/2.c1542bbf.chunk.js",
+    "static/js/2.c1542bbf.chunk.js.map": "/cheesy-jokes/static/js/2.c1542bbf.chunk.js.map",
     "index.html": "/cheesy-jokes/index.html",
-    "precache-manifest.c9146a4c4198641c5cc2b4e53ddf253f.js": "/cheesy-jokes/precache-manifest.c9146a4c4198641c5cc2b4e53ddf253f.js",
+    "precache-manifest.ea84d84700feecb89fbb8978a010806b.js": "/cheesy-jokes/precache-manifest.ea84d84700feecb89fbb8978a010806b.js",
     "service-worker.js": "/cheesy-jokes/service-worker.js",
     "static/css/main.b78790f3.chunk.css.map": "/cheesy-jokes/static/css/main.b78790f3.chunk.css.map",
-    "static/js/2.c9c4aa42.chunk.js.LICENSE.txt": "/cheesy-jokes/static/js/2.c9c4aa42.chunk.js.LICENSE.txt"
+    "static/js/2.c1542bbf.chunk.js.LICENSE.txt": "/cheesy-jokes/static/js/2.c1542bbf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb2342e2.js",
-    "static/js/2.c9c4aa42.chunk.js",
+    "static/js/2.c1542bbf.chunk.js",
     "static/css/main.b78790f3.chunk.css",
-    "static/js/main.1a91db2f.chunk.js"
+    "static/js/main.ed4044dd.chunk.js"
   ]
 }
